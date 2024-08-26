@@ -4,7 +4,6 @@ onde estudei por 1 ano e 6 meses. Durante esse período, desenvolvi uma base só
 Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas na Unifametro, onde estou aprendendo a aplicar práticas modernas de desenvolvimento em projetos reais. 
 ## Onde me achar ?
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-51629022a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipemaatias_/)
 ## 🚀 Habilidades Técnicas
 <div>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
