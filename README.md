@@ -1,5 +1,5 @@
 ### Olá Mundo ! Me chamo Luis Felipe 🫡
-Tenho 20 anos, e iniciei minha jornada na tecnologia em 2023 com o curso técnico em Desenvolvimento de Sistemas no SENAI,
+Tenho 21 anos, e iniciei minha jornada na tecnologia em 2023 com o curso técnico em Desenvolvimento de Sistemas no SENAI,
 onde estudei por 1 ano e 6 meses. Durante esse período, desenvolvi uma base sólida em programação e bancos de dados, o que me motivou a seguir carreira na área. 
 Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas na Unifametro, onde estou aprendendo a aplicar práticas modernas de desenvolvimento em projetos reais. 
 ## Onde me achar ?
